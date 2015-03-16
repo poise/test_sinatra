@@ -1,3 +1,3 @@
-require_relative 'hi'
+require './hi'
 run Sinatra::Application
 
